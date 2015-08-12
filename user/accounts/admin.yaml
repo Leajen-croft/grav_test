@@ -1,0 +1,9 @@
+email: youremail@mail.com
+fullname: 'Johnny Appleseed'
+title: 'Site Administrator'
+access:
+  admin:
+    login: true
+    super: true
+authenticated: true
+hashed_password: $2y$10$SU5xK4Rsd4JpAmidD5EbIupXkX4o8BOonujM3lRRzVFM2.zsIR7LK
